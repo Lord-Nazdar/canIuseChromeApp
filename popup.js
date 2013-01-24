@@ -14,10 +14,19 @@ function returnKey(evt)
 var searchResult=new Array();
 
 
+function protectParenthesis(string){
+	string = string.replace("(", "\\\(", "gi");
+	string = string.replace(")", "\\\)", "gi");
+	string = string.replace("+", "\\\+", "gi");
+	return string;
+}
+
 function searchVal(val){
 
 	$("#searchResult").empty();
 	$('#result').empty();
+	
+	val=protectParenthesis(val);
     
     var j=0;
     
