@@ -18,6 +18,7 @@ function protectParenthesis(string){
 	string = string.replace("(", "\\\(", "gi");
 	string = string.replace(")", "\\\)", "gi");
 	string = string.replace("+", "\\\+", "gi");
+	string = string.replace("*", "\\\*", "gi");
 	return string;
 }
 
