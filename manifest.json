@@ -8,7 +8,6 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "http://api.flickr.com/",
     "https://raw.github.com/*"
   ]
 }
