@@ -24,9 +24,9 @@ Display information for mobile browsers:
 
 *Download*
 
-For the moment the extension is not available for download on Chrome webstore.
+Link to the extension on chrome webstore:https://chrome.google.com/webstore/detail/can-i-use/mghkfppiikbifmgkiacnjigaggnfeikd
 
-In a way to use it you have to turn dev mode on on chrome and load it via unpackaged application:http://developer.chrome.com/extensions/getstarted.html#unpacked.
+If you want to use the latest version comming from the sources you have to turn dev mode on on chrome and load it via unpackaged application:http://developer.chrome.com/extensions/getstarted.html#unpacked.
 
 *Contributing*
 
