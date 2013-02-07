@@ -3,7 +3,24 @@ The Chrome canIuse.com extension
 
 *Description*
 
-Display canIuse.com statistics directly in Chrome using the extension API
+Display the caniuse.com statistics directly in chrome.
+Lets you improve your development process by allowing you to check if the markups you use are compatible with all browser.
+
+Display information for desktop browsers:
+ * IE
+ * Firefox
+ * Chrome
+ * Safari
+ * Opera
+
+Display information for mobile browsers:
+ * IOS Browser
+ * Android default browser
+ * Blackberry Browser
+ * Chrome Android
+ * Firefox Android
+ * Opera
+ * Opera Mini
 
 *Download*
 
