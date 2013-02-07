@@ -36,5 +36,6 @@ Any contribution, is greatly appreciated. Feel free to make a pull request.
 
 *Ressources*
 
+This App is not related to the website caniuse.com and his creator.
 * CanIUse.com website:http://caniuse.com/
 * CanIUse creator:http://a.deveria.com/
