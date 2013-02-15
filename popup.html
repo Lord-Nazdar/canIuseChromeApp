@@ -139,8 +139,10 @@
     <!-- JavaScript and HTML must be in separate files for security. -->
   </head>
   <body>
-  <h2>Search</h2>
-  <input id="searchInput" type="search" name="feat_search" placeholder="border-radius, WebGL, woff, etc" autocomplete="off">
+  <h2>Search (DEBUG)</h2>
+  <input id="searchInput" name="feat_search" placeholder="border-radius, WebGL, woff, etc" autocomplete="off" list="dataList">
+  	<datalist id="dataList">
+	</datalist>
     <div id="searchResult">
     </div>
     <div id="result">
